@@ -1,0 +1,24 @@
+5 Introduction, general information about code review
+	-	Make case for code reviews (quality, redundancy, knowledge transfer)
+	-	Talk about how finding the same type of defect repeatedly is suboptimal
+5 Build off previous explanation into personal experience using code review checklists
+	-	Talk about occurances where I was making the same/similar comment on multiple code reviews
+	-	Impetus for creating a team code review checklist
+	-	Talk about taking that knowledge with me onto other projects to create a personal checklist
+	-	Difference between team and personal checklists
+5 Describe when and how to use checklists
+	-	Make the case for checklists
+	-	Example in another field - the introduction of surgeon checklists reduced major complications and deaths by 30-40%
+	-	Making the case for pre-execution checklist
+	-	Multi-pass
+	-	Examples of good and bad checklist items
+5 Explanation of coding exercise
+	-	Program that prints out the numbers 1-100 one per line, with blank lines for those divisible by 3.
+5 Coding exercise using pen & paper
+5	continued
+5 Peer code review of coding exercise
+5 	continued
+5 Review checklist & post-mortem on exercise
+5 Questions
+
+*Bonus - if there is extra time do a second exercise to print the alphabet backwards while using the checklist
