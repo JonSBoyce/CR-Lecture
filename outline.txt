@@ -1,5 +1,6 @@
 5 Introduction, general information about code review
 	-	Make case for code reviews (quality, redundancy, knowledge transfer)
+	-	Use example of 1.5million line code base to illustrate why knowledge transfer is important
 	-	Talk about how finding the same type of defect repeatedly is suboptimal
 5 Build off previous explanation into personal experience using code review checklists
 	-	Talk about occurances where I was making the same/similar comment on multiple code reviews
