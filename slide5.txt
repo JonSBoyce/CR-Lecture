@@ -1,2 +1,10 @@
 Checklist:
+	Solve the right problem (3)
+	Do not have infinite loops
+	Use the right language
+	Remember to close all parens
+	Use correct syntax
+	Use the intended types
+	Make sure boolean statements
+		are correct
 	
