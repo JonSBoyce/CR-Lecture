@@ -1,0 +1,15 @@
+Example Exercise:
+
+Create a program that prints out
+the numbers 1-100, one per line,
+with blank lines for those
+divisible by 3.
+
+Ex:
+>	yourProgram.exe
+1
+2
+
+4
+...
+100

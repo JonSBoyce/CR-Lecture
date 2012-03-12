@@ -1,0 +1,8 @@
+Code Review Checklist
+	Eliminate Repeated Defects
+	Helps Maintain Focus
+	Improve Pre-Review Quality
+	
+Team Checklist
+
+Personal Checklist

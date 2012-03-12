@@ -1,0 +1,16 @@
+Bonus Exercise:
+
+Create a program that prints
+out the alphabet backwards,
+one character per line, with a
+blank line for the letter 'r'.
+
+Example:
+>	yourProgram.exe
+z
+...
+s
+
+q
+...
+a
