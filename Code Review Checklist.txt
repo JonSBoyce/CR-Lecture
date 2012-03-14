@@ -1,0 +1,30 @@
+General:
+	Variables and functions are well-named
+	Cyclomatic complextiy is low (better be a good reason if it is >3)
+
+Protocol Files:
+	Check the manual protocol and make sure that every step is accounted for
+	Check the requirements referenced in each step and make sure that they are tested
+	Every LogAssertion needs to take a requirement or a specific UIS document (the manual protocols are deficient in this regard)
+	If one manual step references n requirements (where n > 1) split it into n automated protocol steps
+	There should be enough information in this file for someone to execute the protocol manually (comments or self-documenting code will suffice)
+	Run the protocol and check the xml log output - ensure that the log contains enough information to execute the protocol manually (and ensure that it fits the stylesheet)
+	Do they avoid unnecessary USEUNITs (Pages and Page Helpers)?
+	Is the "main" method named properly ([file name]Test)?
+	Is the test object named properly (same as file name)?
+	
+Page Files:
+	There is no screen object creation in this file
+	Functions that change the state of the application make a call to LogMessage
+	Are methods spaced correctly?
+	Are method names spelled correctly?
+	Does each method have a comment block with correct opening and closing tags?
+	Do the comments utilize correct spelling and grammar?
+	Does the parameter name in the param tag match the name of the actual parameter used?
+
+PageHelper Files:
+	This file only contains functions that return screen objects
+	Are function names spelled correctly?
+	Did they avoid use of the middle parameter when using WPFObject?
+	Are methods spaced correctly?
+	Are common things commonized (Page Root, etc.)?
